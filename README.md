@@ -31,3 +31,15 @@ https://vazisan.github.io/contact-form-sample/
 - 実際のメール送信処理の追加（バックエンド連携）
 - アクセシビリティ対応（ラベル・ARIA）
 
+
+* デザインのブラッシュアップ
+* 実際に送信できるバックエンド処理の追加
+* アクセシビリティ対応の強化
+
+---
+
+※ 学習目的で作成したサンプルです
+
+## デモURL
+https://vazisan.github.io/contact-form-sample/
+>>>>>>> ae255c7bb2eafa5a1520be7e329d36549e93b814
