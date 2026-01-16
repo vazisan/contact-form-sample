@@ -1,53 +1,20 @@
 # Todoアプリ
 
-シンプルなTodo管理ができるWebアプリです。  
-JavaScriptの基礎学習と、Web制作の実績作りを目的として作成しました。
+## 概要
+JavaScriptのDOM操作の理解を目的に作成したシンプルなTodoアプリです。
 
----
-
-## 🔹 機能
-
+## 機能
 - Todoの追加
-- Todoの完了（チェック）
+- Enterキーで追加
+- クリックで完了状態の切り替え
 - Todoの削除
-- ページを更新してもTodoが残る（localStorage使用）
 
----
-
-## 🔹 使用技術
-
+## 使用技術
 - HTML
 - CSS
 - JavaScript（Vanilla JS）
-- localStorage
 
----
-
-## 🔹 使い方
-
-1. 入力欄にTodoを入力
-2. 「追加」ボタン、またはEnterキーで追加
-3. 完了したTodoは「完了」ボタンで管理
-4. 削除したい場合は「削除」ボタンをクリック
-
----
-
-## 🔹 制作のポイント
-
-- JavaScriptのDOM操作に慣れることを意識しました
-- localStorageを使い、データが保存される仕組みを実装しました
-- シンプルで分かりやすいUIを心がけました
-
----
-
-## 🔹 今後の改善予定（任意）
-
-- デザインの改善
-- 期限（締切）の追加
-- フィルター機能（未完了／完了）
-
----
-
-## 🔹 制作者
-
-84_webdev
+## 学習ポイント
+- DOM操作（createElement / appendChild）
+- イベント処理（click / keydown）
+- classList を使った状態管理
