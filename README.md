@@ -42,4 +42,3 @@ https://vazisan.github.io/contact-form-sample/
 
 ## デモURL
 https://vazisan.github.io/contact-form-sample/
->>>>>>> ae255c7bb2eafa5a1520be7e329d36549e93b814
